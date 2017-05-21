@@ -122,7 +122,7 @@ end
 
 % Reading the ECG files from the database
 % Specify Data
-PATH='/home/maxim/soft'; % path, where data are saved
+PATH='./'; % path, where data are saved
 HEADERFILE= '102.hea'; % header-file in text format
 ATRFILE= '102.atr';
 % attributes-file in binary format
